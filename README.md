@@ -21,13 +21,12 @@ Git is an essential open source version control system widely used in modern sof
 ---
 
 > Learning Notes:
+>
 > Many of the author’s existing GitHub repositories already include Git-related guidelines tailored to specific use cases for practice. However, this repository aims to consolidate and expand those materials into a dedicated learning resource focused entirely on Git. Contributions are encouraged to continuously improve the content and share best practices with the community
-
+>
 > For Windows users, it is recommended to set up a Windows Subsystem for Linux (WSL) environment. All guidelines in this repository are designed to be used in a Linux-based environment, primarily through the Command Line Interface (CLI). This approach allows users to learn each module while becoming familiar with CLI usage
-
+>
 > Developing proficiency with the CLI will help align your skills with real-world working environments, where command-line tools are commonly used to improve productivity and ensure accuracy in daily tasks
-
----
 
 ## What is Git?
 Git is a distributed version control system used to track changes in source code during software development. It allows developers to manage, record, and collaborate on code efficiently by maintaining a complete history of changes. With Git, multiple users can work on the same project simultaneously without overwriting each other’s work, ensuring better collaboration and version tracking
