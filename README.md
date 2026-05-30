@@ -8,6 +8,7 @@ Topic
    <li>How to install Git?</li>
    <li>Configure Git Settings</li>
    <li>Getting Help</li>
+</ol>
 
 # Objective
 The aim of this report is to establish a collaborative Git learning resource that supports beginners in understanding and applying fundamental Git concepts effectively
