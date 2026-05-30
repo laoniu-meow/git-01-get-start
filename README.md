@@ -1,14 +1,13 @@
 # A Collaborative Git Learning Resource for Beginners
 
 Topic
-```bash
-1. Objective
-2. Background
-3. What is Git?
-4. How to install Git?
-5. Configure Git Settings
-6. Getting Help
-```
+<ol type = "1">
+   <li>Objective</li>
+   <li>Background</li>
+   <li>What is Git?</li>
+   <li>How to install Git?</li>
+   <li>Configure Git Settings</li>
+   <li>Getting Help</li>
 
 # Objective
 The aim of this report is to establish a collaborative Git learning resource that supports beginners in understanding and applying fundamental Git concepts effectively
